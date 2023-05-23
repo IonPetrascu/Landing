@@ -348,7 +348,7 @@ body a:hover {
 }
 
 .header {
-  background: url(/../img/header/background.jpg) no-repeat;
+  background: url(/img/header/background.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
   padding: 30px 0 75px;
@@ -412,13 +412,13 @@ body a:hover {
 }
 
 .header__address::after {
-  background: url(/img/header/point.svg) no-repeat;
+  background: url(./img/header/point.svg) no-repeat;
   left: -30px;
   top: -6px;
 }
 
 .header__tel::after {
-  background: url(/img/header/phone.svg) no-repeat;
+  background: url(./img/header/phone.svg) no-repeat;
   left: -33px;
   top: -3px;
 }
@@ -544,7 +544,7 @@ body a:hover {
 }
 
 .cta {
-  background: url(../img/cta/background.jpg) no-repeat;
+  background: url(./img/cta/background.jpg) no-repeat;
   background-size: cover;
   padding: 180px 0px;
 }
