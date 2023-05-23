@@ -699,7 +699,7 @@ body a:hover {
 }
 
 .feedback {
-  padding-bottom: 180px;
+  padding: 180px 0px;
 }
 
 .feedback__title {
